@@ -32,3 +32,11 @@ Beverage, location & Price
 | coke       | KFC      | $1.50 |
 | Fanta      | KFC      | $1.80 |
 | mountain dew  | KFC   | $2.20 |
+
+---
+## Pithy Quotes
+"Abraham Lincoln" said:
+
+> In the end, it's not the years in your life that count. It's the life in your years.
+
+> Folks are usually about as happy as they make their minds up to be.
