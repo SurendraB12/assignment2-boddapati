@@ -21,3 +21,14 @@
 
 
 [Image](AboutMe.md)
+
+***
+## Beverage Section
+Beverage, location & Price
+
+| Drinks    | Location | Price |
+|------------|----------|-------|
+| lemonide   | KFC      | $2.00 |
+| coke       | KFC      | $1.50 |
+| Fanta      | KFC      | $1.80 |
+| mountain dew  | KFC   | $2.20 |
