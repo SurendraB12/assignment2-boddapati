@@ -40,3 +40,34 @@ Beverage, location & Price
 > In the end, it's not the years in your life that count. It's the life in your years.
 
 > Folks are usually about as happy as they make their minds up to be.
+
+
+## code fencing
+
+**Minimum stack / Minimum queue** from **Data Structures**
+
+> In computer science, a min-max heap is a complete binary tree data structure which combines the usefulness of both a min-heap and a max-heap, that is, it provides constant time retrieval and logarithmic time removal of both the minimum and maximum elements in it. This makes the min-max heap a very useful data structure to implement a double-ended priority queue. Like binary min-heaps and max-heaps, min-max heaps support logarithmic insertion and deletion and can be built in linear time. Min-max heaps are often represented implicitly in an array. hence it's referred to as an implicit data structure.
+
+> The min-max heap property is: each node at an even level in the tree is less than all of its descendants, while each node at an odd level in the tree is greater than all of its descendants.
+
+Minimum stack / Minimum queue algorithim [Reference link](https://en.wikipedia.org/wiki/Min-max_heap)
+
+
+code for Minimum stack / Minimum queue algorithim 
+```
+
+stack<pair<int, int>> st;
+
+int new_min = st.empty() ? new_elem : min(new_elem, st.top().second);
+st.push({new_elem, new_min});
+
+
+int removed_element = st.top().first;
+st.pop();
+
+int minimum = st.top().second;
+
+```
+
+Minimum stack / Minimum queue algorithim [code-link](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
+
