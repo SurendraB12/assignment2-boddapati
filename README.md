@@ -14,3 +14,7 @@
     2. It is also famous for forts.
        1. Ongole Fort 
        2. Prakasam fort
+
+6. I visited to enjoy these places.
+- Ongloe also famaous for beaches.
+- it Exports sea products through out of country. 
